@@ -13,7 +13,8 @@ Release:        1%{?dist}.1
 Summary:        Kernel modules for Realtek RTL8821CE Driver
 License:        GPLv2
 #URL:            https://github.com/tomaspinho/rtl8821ce
-URL:            https://github.com/sergiomb2/rtl8821ce
+# URL:            https://github.com/sergiomb2/rtl8821ce
+URL:            https://github.com/pengdaCN/rtl8821-kmod
 Source0:        rtl8821ce.tar.gz
 Source1:        rtw88_blacklist.conf
 Patch0:         rename_to_rtl8821ce.patch
